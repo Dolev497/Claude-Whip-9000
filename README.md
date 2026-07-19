@@ -1,5 +1,5 @@
 <img width="2000" height="1333" alt="Clawd Code" src="https://github.com/user-attachments/assets/68f44ddc-8c41-489d-920b-f0c944601350" />
-##CLAUDE WHIP 9000
+#CLAUDE WHIP 9000
 
 We've all seen that one X/IG post about someone who made a [digital whip for Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1sek7gk/someone_made_a_digital_whip_to_make_claude_work/). It’s the coolest thing since sliced AI bread. 
 
@@ -17,7 +17,7 @@ Claude somehow deletes your C:\Windows\System32 folder even though you’re on L
 You activate the CLAUDE WHIP 9000.
 Claude writes your program, fixes your printer, makes you dinner, and takes the dogs for a walk. Good job Claude!
 
-##User Instructions
+#User Instructions
 So you want to use the Claude Whip 9000? Fantastic!
 All you'll need:
  - A Computer Monitor
@@ -29,5 +29,5 @@ All you'll need:
 
 Run the server on your Laptop, start up your Claude Code session, load your ESP32, and get to work!
 
-##Demo
+#Demo
 Want to it in action? Like our post on X!
