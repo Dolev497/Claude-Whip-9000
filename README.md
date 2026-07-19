@@ -31,4 +31,4 @@ All you'll need:
 Run the server on your Laptop, start up your Claude Code session, load your ESP32, and get to work!
 
 # Demo
-Want to it in action? Like our post on X!
+Want to it in action? [Like our post on X!](https://x.com/PidgeonFriedEgg/status/2078833863057420641)
